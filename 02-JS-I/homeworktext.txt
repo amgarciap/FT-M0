@@ -1,0 +1,27 @@
+HOMEWORK 1
+
+ADRIANA GARCIA PUERTO
+
+1.	VARIABLES:
+
+Las variables son elementos en una situacion que pueden cambiar, estas ayudan a comparar informacion y a identificar posibles cambios que existan en la situacion, por ejemplo el clima, o el crecimiento de una población, o cuantas personas se contagian con un virus. Estos son acontecimientos que cuentan con una serie de variables como: la temperatura, la cantidad de apersonas aptas para tener hijos en esa población, y en el caso del virus, la edad de las personas que pueden contraer el virus, el lugar, el nivel de exposicion etc.
+
+2.	STRINGS
+
+Las STRINGS son traducidas como palabras que son usadas en Java para dar algun significado a las condiciones que se quieren exponer.
+
+3.	FUNCIONES
+
+Las funciones son construcciones de varias variables que permiten hacer algun tipo de operacion, ya sea matematica, o donde entreguen como resultado una imagen, texto y/o cualquier condicion que sea descrita en la function.
+
+En este caso, las instrucciones que se le dan al programa para hacer alguna accion se llaman argumentos.
+
+Para el caso de poder ver el resultado de los argumentos se requiere usar una function que se llama return.
+
+4.	DECLARACIONES IF
+
+Estas declaraciones son utilizadas cuando se quiere demostrar que se cumpla una condicion en particular para que de como resultado algo punctual, un ejemplo podria ser cuando se esta jugando un videojuego, si se coloca una function erronea en el control el commando en  el videojuego no se ejecutara, pero si lo hara si se completan los pasos correctos.
+
+
+
+
